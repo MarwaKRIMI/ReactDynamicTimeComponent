@@ -1,2 +1,0 @@
-# ReactDynamicTimeComponent
-Created with CodeSandbox

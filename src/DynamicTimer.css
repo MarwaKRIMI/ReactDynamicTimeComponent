@@ -1,0 +1,44 @@
+.time {
+  text-align: center;
+}
+.time-container {
+  display: inline-block;
+}
+.time-number {
+  font-size: 4em;
+}
+.time-text {
+  display: flex;
+  justify-content: space-around;
+  color: grey;
+}
+.btn-start {
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  font-weight: bold;
+  font-size: 20px;
+  color: blue;
+}
+.btn-pause {
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  font-weight: bold;
+  font-size: 20px;
+  color: green;
+}
+.btn-reset {
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  font-weight: bold;
+  font-size: 20px;
+  color: red;
+}
+.title {
+  text-align: center;
+}
+.buttons {
+  text-align: center;
+}
